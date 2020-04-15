@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Narmada</string>
+    <string name="find_contact_label">Who should you call next ?</string>
+    <string name="find_contact_button_label">Find Contact</string>
 </resources>
